@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0f46316-3e12-41dc-b88c-52189b12bcad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/ChineseCharacterUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/util/ChineseCharacterUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,20 +64,32 @@
       <updated>1587196126217</updated>
       <workItem from="1587196129624" duration="804000" />
     </task>
+    <task id="LOCAL-00001" summary="11">
+      <created>1587197196311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587197196311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="30" key="#Project_Structure" timestamp="1587196509497">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="30" key="#Project_Structure/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1587196509497" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1587197176762">
+    <state x="278" y="0" key="CommitChangelistDialog2" timestamp="1587197340635">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1587197176762" />
+    <state x="278" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1587197340635" />
     <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1587196684195">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -109,5 +110,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="263" y="106" key="IDE.errors.dialog/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1587196496970" />
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1587197200064">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1587197200064" />
   </component>
 </project>
